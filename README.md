@@ -2,7 +2,10 @@
 
 > For Python3
 
-一个通用的 LeetCode 题目测试框架，支持自动化测试各种类型的 LeetCode 解题方案。
+一个无感的、通用的 LeetCode 题目测试框架，支持自动化测试各种类型的 LeetCode 解题方案。
+
+<img width="1214" alt="image" src="https://github.com/user-attachments/assets/0d101707-7986-45bd-906f-c278255a53c6" />
+
 
 ## ✨ 特性
 
