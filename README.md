@@ -1,4 +1,4 @@
-# LUTF (LeetCode Universal Test Framework)
+# L(eetCode) U(niversal) T(est) F(ramework)
 
 > For Python3
 
